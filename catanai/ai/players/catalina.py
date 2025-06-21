@@ -12,7 +12,6 @@ class Catalina(Player):
             action (Action): Chosen element of playable_actions
         """
         # ===== YOUR CODE HERE =====
-        # As an example we simply return the first action:
         return playable_actions[0]  # type: ignore
         # ===== END YOUR CODE =====
 
