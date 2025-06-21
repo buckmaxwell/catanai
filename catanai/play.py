@@ -24,7 +24,7 @@ def main():
     default_args = [
         "--code=ai/players/catalina.py",
         "--players=R,R,R,Catalina",
-        "--num=10"
+        "--num=10" # 10
     ]
 
     # Replace current process with catanatron-play + default args
