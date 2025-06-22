@@ -24,6 +24,7 @@ def main():
     default_args = [
         "--code=ai/players/catalina.py",
         "--players=R,R,R,Catalina",
+        #"--players=F,F,F,Catalina",
         "--num=10" # 10
     ]
 
