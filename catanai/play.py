@@ -23,8 +23,8 @@ def main():
     # Default arguments for our Catalina bot
     default_args = [
         "--code=ai/players/catalina.py",
-        "--players=R,R,R,Catalina",
-        #"--players=F,F,F,Catalina",
+        #"--players=R,R,R,Catalina",
+        "--players=F,F,F,Catalina",
         "--num=10" # 10
     ]
 
